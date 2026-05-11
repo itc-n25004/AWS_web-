@@ -1,5 +1,5 @@
 ### awsの資格
-- **Foudational**
+- [] **Foudational**
 ##### AWS cloud practitioner
 IT やクラウドの経験がまったくない個人でクラウドのキャリアに切り替えるか、基礎的なクラウドリテラシーを求めている基幹業務の従業員に向けた資格
 
